@@ -2,6 +2,11 @@
   "expo": {
     "name": "forex-alert",
     "slug": "snack-555c5dfc-ec4b-4d81-bcd0-425397ebf1",
+    "extra": {
+      "eas": {
+        "projectId": "11111111-2222-3333-4444-555555555555"
+      }
+    },
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
