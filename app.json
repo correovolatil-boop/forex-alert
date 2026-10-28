@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "forex-alert",
-    "slug": "snack-555c5dfc-ec4b-4d81-bcd0-425397efb1f1",
+    "slug": "snack-555c5dfc-ec4b-4d81-bcd0-425397ebf1",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -16,6 +16,7 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "com.correovolatil.forexalert",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
@@ -25,6 +26,11 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "description": "Forex Alerts"
+    "description": "Forex Alerts",
+    "sdkVersion": "54.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ]
   }
 }
