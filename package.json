@@ -16,4 +16,7 @@
     "react-native": "0.76.7"
   },
   "private": true
-}
+},
+"engines": {
+    "node": ">=20.19.4"
+  }
