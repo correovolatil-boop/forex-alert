@@ -1,5 +1,6 @@
 {
-  "license": "0BSD",
+  "name": "forex-alert",
+  "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "start": "expo start",
@@ -7,16 +8,12 @@
     "ios": "expo start --ios",
     "web": "expo start --web"
   },
-"dependencies": {
+  "dependencies": {
     "expo": "~54.0.0",
     "expo-font": "~13.0.4",
     "expo-status-bar": "~2.0.1",
     "@expo/vector-icons": "^14.0.0",
     "react": "18.3.1",
     "react-native": "0.76.7"
-  },
-  "private": true
-},
-"engines": {
-    "node": ">=20.19.4"
   }
+}
