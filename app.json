@@ -2,16 +2,10 @@
   "expo": {
     "name": "forex-alert",
     "slug": "forex-alert",
-    "extra": {
-      "eas": {
-        "projectId": "855f1cdb-e9d3-437d-9b2d-e9a41ab95c98"
-      }
-    },
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
-    "newArchEnabled": true,
     "splash": {
       "image": "./assets/splash-icon.png",
       "resizeMode": "contain",
@@ -25,17 +19,15 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      },
-      "edgeToEdgeEnabled": true
+      }
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "description": "Forex Alerts",
-    "sdkVersion": "54.0.0",
-    "platforms": [
-      "ios",
-      "android"
-    ]
+    "extra": {
+      "eas": {
+        "projectId": "855f1cdb-e9d3-437d-9b2d-e9a41ab95c98"
+      }
+    }
   }
 }
