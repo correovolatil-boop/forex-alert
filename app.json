@@ -2,7 +2,6 @@
   "expo": {
     "name": "forex-alert",
     "slug": "forex-alert",
-    "owner": "fer12358-team",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
